@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-i love you so muchie, baobei ᜊ( ' ⩊ '𖦹)ᜊ
+ricotaro ♡
 </p>
