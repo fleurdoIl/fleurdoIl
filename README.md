@@ -5,7 +5,7 @@
   c+h are heavily encouraged even im with friends or alone >u<
 </p>
 <p align="center">
-  @̶t̶a̶r̶o̶f̶g̶t dead alter
+  @tarofgt dead alter
 </p>
 </p>
 <p align="center">
