@@ -9,7 +9,7 @@
 </p>
 </p>
 <p align="center">
-  <a href="https://rentry.co/tarofgt">rentry</a>ㅤㅤ<a href="https://sakamototaro.atabook.org/">atabook</a>
+  <a href="https://rentry.co/tarofgt">rentry</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>
 </p>
 </p>
 <p align="center">
