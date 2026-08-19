@@ -4,9 +4,6 @@
 <p align="center">
   c+h are heavily encouraged even im with friends or alone >u<
 </p>
-<p align="center">
-  @tarofgt my dead alter
-</p>
 </p>
 <p align="center">
   <a href="https://rentry.co/tarofgt">rentry</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>
