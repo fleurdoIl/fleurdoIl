@@ -12,7 +12,7 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://rentry.co/tarofgt">rentry</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>ㅤㅤ<a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤㅤ<a href="https://rentry.co/yano-kun">(,; ⩌ ;,)</a>
+  <a href="https://tarofgt.straw.page/">strawpage</a>ㅤㅤ<a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤㅤ<a href="https://rentry.co/yano-kun">(,; ⩌ ;,)</a>
 </p>
 <p align="center">
   <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
