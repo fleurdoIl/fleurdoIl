@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://x.com/ClownExxus/status/2066962923969273875?s=46&t=fdTDs6c0d2bnDxzj3mafhQ">
-    <img src="https://files.catbox.moe/1zy7n4.png" alt="me" width="400">
+    <img src="https://files.catbox.moe/1zy7n4.png" alt="me" width="330">
   </a>
 </p>
 <details>
