@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://files.catbox.moe/54qu24.png" alt="sugutaro" width="300">
+  <img src="https://files.catbox.moe/1r2pwj.jpg" alt="sugutaro" width="300">ㅤ<img src="https://files.catbox.moe/s7hv40.jpg" alt="sugutaro" width="212">
 </p>
 <p align="center">
-  c+h are heavily encouraged even im with friends or alone >u<
+  pfp by @/dilf_unit
 </p>
 <details>
 <summary>
