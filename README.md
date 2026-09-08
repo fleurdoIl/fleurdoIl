@@ -22,7 +22,7 @@
         <br>
       < hyung, livv, soffo, patrick 3 <br>
       yuwi, suav, kafu, kuni, silver, alexis, shinichi, hoshi, cath <br>
-      i lope you guys so muchie ~ (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
+      i lope you guys so muchie (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
       </details>
     </td>
 <td align="center">
