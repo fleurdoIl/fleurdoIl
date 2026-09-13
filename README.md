@@ -28,7 +28,7 @@
     </td>
 <td align="center">
    <a href="https://x.com/sgkg108/status/2083173507094155364">
-       <img src="https://files.catbox.moe/wnbomf.png" width="240">
+       <img src="https://files.catbox.moe/wnbomf.png" width="200">
       </a>
     </td>
   </tr>
