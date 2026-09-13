@@ -27,7 +27,7 @@
       </details>
     </td>
 <td align="center">
-       <img src="https://files.catbox.moe/1r2pwj.jpg" width="240">
+       <img src="https://files.catbox.moe/xzlhsg.png" width="240">
       </a>
     </td>
   </tr>
