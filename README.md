@@ -1,5 +1,8 @@
 <p align="center">
-    <img width="200" src="https://files.catbox.moe/py2n55.png" alt="softar">
+    <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
+</p>
+<p align="center">
+meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´͈ ᵕ `͈˶)
 </p>
 <table align="center">
   <tr>
