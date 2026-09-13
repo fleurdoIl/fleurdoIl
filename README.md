@@ -27,7 +27,8 @@
       </details>
     </td>
 <td align="center">
-       <img src="https://files.catbox.moe/xzlhsg.png" width="240">
+   <a href="https://x.com/sgkg108/status/2083173507094155364">
+       <img src="https://files.catbox.moe/wnbomf.png" width="240">
       </a>
     </td>
   </tr>
