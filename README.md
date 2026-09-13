@@ -10,7 +10,8 @@
     <details>
         <summary>my links !!</summary>
         <br>
-       <a href="https://tarofgt.straw.page/">strawpage</a>ㅤ<a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a><br>
+       <a href="https://tarofgt.straw.page/">strawpage</a>ㅤ<a href="https://geto-suguru.atabook.org/">atabook</a><br>
+      <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a><br>
           <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
       </details>
     </td>
