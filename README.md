@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="200" src="https://files.catbox.moe/py2n55.png" alt="softar">
+</p>
 <table align="center">
   <tr>
     <td align="center">
