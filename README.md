@@ -28,8 +28,8 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
         <summary>my oomfs !!</summary>
         <br>
       < hyung, livv, soffo, patrick 3 <br>
-      yuwi, suav, kafu, kuni, silver <br> alexis, shinichi, hoshi, cath <br>
-      i lope you guys so muchie <br> (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
+      ㅤ<br> yuwi, suav, kafu, kuni, silver, <br> alexis, shinichi, hoshi, cath <br>
+      ㅤ<br> i lope you guys so muchie <br> (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
       </details>
     </td>
 <td align="center">
