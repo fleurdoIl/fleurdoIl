@@ -16,7 +16,7 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
     <details>
         <summary>my links !!</summary>
         <br>
-       <a href="https://tarofgt.straw.page/">strawpage</a>ㅤ<a href="https://geto-suguru.atabook.org/">atabook</a><br>
+       <a href="https://fluffle.cc/tarofgt">fluffle</a>ㅤ<a href="https://geto-suguru.atabook.org/">atabook</a><br>
       <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a><br>
           <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
       </details>
