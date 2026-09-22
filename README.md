@@ -1,6 +1,6 @@
-<summary align="center">
-<details>
-<summary><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne+Tactile&pause=1000&color=A90000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=happy+667+atabook+messages+2+me;%28+%E2%89%A7+%E2%A9%8A+%E2%89%A6+%29" alt="Typing SVG" /></a></summary>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne+Tactile&pause=1000&color=A90000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=happy+667+atabook+messages+2+me;%28+%E2%89%A7+%E2%A9%8A+%E2%89%A6+%29" alt="Typing SVG" /></a>
+</p>
 <table align="center">
   <tr>
     <td align="center">
@@ -15,8 +15,6 @@ happy 667 atabook messages 2 me 🎉<br>
     for being the 667th messages ♡
  </tr>
 </table>
-</details>
-</summary>
 ㅤ
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
