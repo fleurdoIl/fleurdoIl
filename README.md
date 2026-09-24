@@ -1,18 +1,3 @@
-<table align="center">
-  <tr>
-    <td align="center">
-        <img src="https://files.catbox.moe/wp1ple.jpg" width="250">
-      </a>
-    </td>
-    </td>
-    <td align="center">
-happy 667 atabook messages 🎉🎉🎉<br>
-ㅤ<br>
-    also a big thanks & congratulations to <br> <a href="https://github.com/4rtistic">yuwi</a>
-    for being the 667th messages ♡
- </tr>
-</table>
-ㅤ
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
 </p>
@@ -29,29 +14,10 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
     </td>
     </td>
     <td align="center">
-    <details>
-        <summary>my links !!</summary>
-        <br>
-       <a href="https://fluffle.cc/tarofgt">fluffle</a>ㅤ<a href="https://geto-suguru.atabook.org/">atabook</a><br>
-      <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&size=22&pause=1000&color=C3262D&center=true&vCenter=true&width=260&lines=my%E3%85%A4links;%28%E2%89%A7%E3%83%AE%E2%89%A6%29" alt="Typing SVG" /></a><br>
+       ㅤ <a href="https://fluffle.cc/tarofgt">fluffle</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>ㅤ<br>
+      ㅤ <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a>ㅤ<br>
           <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
-      </details>
-    </td>
-  </tr>
-  </tr>
- <td align="center">
-    <details>
-        <summary>my oomfs !!</summary>
-        <br>
-      < hyung, livv, soffo, patrick 3 <br>
-      ㅤ<br> yuwi, suav, kafu, kuni, silver, <br> alexis, hoshi, cath , shinichi <br>
-      ㅤ<br> i lope you guys so muchie <br> (っ˶ ˘ ᵕ˘)ˆᵕ ˆ˶ς)
-      </details>
-    </td>
-<td align="center">
-   <a href="https://x.com/sgkg108/status/2083173507094155364">
-       <img src="https://files.catbox.moe/wnbomf.png" width="200">
-      </a>
     </td>
   </tr>
 </table>
