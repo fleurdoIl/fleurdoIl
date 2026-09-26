@@ -1,6 +1,4 @@
-ㅤ
-ㅤ
-ㅤ
+<br>
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
 </p>
@@ -24,3 +22,23 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
     </td>
   </tr>
 </table>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+<a href="https://frisbee.carrd.co/">a love letter ♡</a><br>
+(you don't have to read it if you don't want. it is dedicated to someone else.)
+</p>
