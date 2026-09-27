@@ -9,8 +9,8 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://x.com/sgkg108/status/2092781752234418297">
-        <img src="https://files.catbox.moe/qzpsvi.png" width="220">
+      <a href="https://x.com/clownexxus/status/2066962923969273875?s=46&t=fdTDs6c0d2bnDxzj3mafhQ">
+        <img src="https://files.catbox.moe/6zjuqn.png" width="220">
       </a>
     </td>
     </td>
