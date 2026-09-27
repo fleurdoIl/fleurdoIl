@@ -15,7 +15,7 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
     </td>
     </td>
     <td align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&size=22&pause=1000&color=F79BBE&center=true&vCenter=true&width=200&lines=my%E3%85%A4links" alt="Typing SVG" /></a><br>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cossette+Titre&size=22&pause=1000&color=F78AA8&center=true&vCenter=true&width=200&separator=%3C&lines=my%E3%85%A4links%E3%85%A4%E2%99%A1%3C%28%E3%85%A4%2C;%E3%85%A4%E2%A9%8C%E3%85%A4;%2C%E3%85%A4%29" alt="Typing SVG" /></a><br>
        ㅤ <a href="https://fluffle.cc/tarofgt">fluffle</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>ㅤ<br>
       ㅤ <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a>ㅤ<br>
           <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
