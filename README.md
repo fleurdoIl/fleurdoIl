@@ -7,7 +7,7 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
 </p>
 <br>
 <p align="center">
-        <img src="https://i.postimg.cc/MHxxhzt6/IMG_5780.gif" width="250">ㅤ<img src="https://i.postimg.cc/2SL5GSqD/IMG_0606.gif" width="45">
+        <img src="https://i.postimg.cc/MHxxhzt6/IMG_5780.gif" width="250">ㅤ<img src="https://i.postimg.cc/hGjPk3dX/E149-C081-31-FD-4120-9-F24-E21437-CDE152.gif" width="35">
 </p>
 <br>
 <table align="center">
