@@ -5,7 +5,11 @@
 <p align="center">
 meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´͈ ᵕ `͈˶)
 </p>
-ㅤ
+<br>
+<p align="center">
+        <img src="https://i.postimg.cc/MHxxhzt6/IMG_5780.gif" width="250">ㅤ<img src="https://i.postimg.cc/2SL5GSqD/IMG_0606.gif" width="45">
+</p>
+<br>
 <table align="center">
   <tr>
     <td align="center">
