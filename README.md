@@ -1,4 +1,6 @@
 <br>
+<br>
+<br>
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
 </p>
@@ -6,10 +8,6 @@
 meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´͈ ᵕ `͈˶)
 </p>
 <br>
-<br>
-<p align="center">
-        <img src="https://i.postimg.cc/MHxxhzt6/IMG_5780.gif" width="250">ㅤ<img src="https://i.postimg.cc/hGjPk3dX/E149-C081-31-FD-4120-9-F24-E21437-CDE152.gif" width="35">
-</p>
 <br>
 <br>
 <table align="center">
@@ -32,19 +30,3 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p align="center">
-<a href="https://frisbee.carrd.co/">a love letter ♡</a><br>
-(you don't have to read it if you don't want. it is dedicated to someone else.)
-</p>
