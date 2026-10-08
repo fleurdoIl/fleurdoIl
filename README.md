@@ -1,14 +1,10 @@
 <br>
-<br>
-<br>
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
 </p>
 <p align="center">
 meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´͈ ᵕ `͈˶)
 </p>
-<br>
-<br>
 <br>
 <table align="center">
   <tr>
