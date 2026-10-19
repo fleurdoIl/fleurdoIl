@@ -19,9 +19,19 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
        ㅤ <a href="https://fluffle.cc/tarofgt">fluffle</a>ㅤㅤ<a href="https://geto-suguru.atabook.org/">atabook</a>ㅤ<br>
 ㅤ<a href="https://fluffle.cc/frisbee">lovemail</a>ㅤ<br>
       ㅤ <a href="https://rentry.co/Iovemarks">(˶ˆᗜˆ˵)</a>ㅤㅤ<a href="https://rentry.co/yano-kun">(˶>⩊<˶)</a>ㅤ<br>
-          <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">spreading awareness</a>
     </td>
   </tr>
+</table>
+<br>
+<table align="center">
+  <tr>
+    <td>
+    <details>
+        <summary>extra</summary>
+        <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">don't use rentry</a> <br>
+        <a href="https://docs.google.com/document/d/1y0erTzrj60k71Pvc68jGTtuKFSJX3qCO3FVgOwfs4IM/edit?usp=sharing">callout docs</a>
+      </details>
+    </td>
 </table>
 <br>
 <br>
