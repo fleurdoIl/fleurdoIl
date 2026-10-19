@@ -27,7 +27,7 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
   <tr>
     <td>
     <details>
-        <summary>extra</summary>
+        <summary>important</summary>
         <a href="https://docs.google.com/document/d/1InDzZ2O6vtPMBTVtjYPdspKpVmBMW24MocKIP2rm1iQ/edit?tab=t.0#heading=h.xmsylk1c8sjw">don't use rentry</a> <br>
         <a href="https://docs.google.com/document/d/1y0erTzrj60k71Pvc68jGTtuKFSJX3qCO3FVgOwfs4IM/edit?usp=sharing">callout docs</a>
       </details>
