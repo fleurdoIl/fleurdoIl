@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312yzp3yd6l4gxi4phwep4bfwylm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312yzp3yd6l4gxi4phwep4bfwylm&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true">
+  </a>
+</p>
 <br>
 <p align="center">
     <img width="450" src="https://files.catbox.moe/py2n55.png" alt="softar">
@@ -35,11 +40,6 @@ meㅤ&ㅤ<a href="https://github.com/s0ff0s0li/">@s0ff0s0li</a>ㅤ(˶˘ ³˘(´�
 </table>
 <br>
 <br>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312yzp3yd6l4gxi4phwep4bfwylm&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312yzp3yd6l4gxi4phwep4bfwylm&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=true&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=true">
-  </a>
-</p>
 <br>
 <br>
 <br>
